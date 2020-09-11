@@ -1,0 +1,13 @@
+D:\Code\ColLinq\ColLinq\bin\Debug\net5.0\ColLinq.exe
+D:\Code\ColLinq\ColLinq\bin\Debug\net5.0\ColLinq.deps.json
+D:\Code\ColLinq\ColLinq\bin\Debug\net5.0\ColLinq.runtimeconfig.json
+D:\Code\ColLinq\ColLinq\bin\Debug\net5.0\ColLinq.runtimeconfig.dev.json
+D:\Code\ColLinq\ColLinq\bin\Debug\net5.0\ColLinq.dll
+D:\Code\ColLinq\ColLinq\bin\Debug\net5.0\ColLinq.pdb
+D:\Code\ColLinq\ColLinq\obj\Debug\net5.0\ColLinq.csprojAssemblyReference.cache
+D:\Code\ColLinq\ColLinq\obj\Debug\net5.0\ColLinq.AssemblyInfoInputs.cache
+D:\Code\ColLinq\ColLinq\obj\Debug\net5.0\ColLinq.AssemblyInfo.cs
+D:\Code\ColLinq\ColLinq\obj\Debug\net5.0\ColLinq.csproj.CoreCompileInputs.cache
+D:\Code\ColLinq\ColLinq\obj\Debug\net5.0\ColLinq.dll
+D:\Code\ColLinq\ColLinq\obj\Debug\net5.0\ColLinq.pdb
+D:\Code\ColLinq\ColLinq\obj\Debug\net5.0\ColLinq.genruntimeconfig.cache

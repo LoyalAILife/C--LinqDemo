@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SH4ysS3b0NzxyAnM/ZnEU6Mqavo50//YYsT+nikF5TTITHjGtDESFZVQx6SfoQhbhVb0+qFWI+4BeEQqU/BTYQ==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\ColLinq\\ColLinq\\ColLinq.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xcs\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
