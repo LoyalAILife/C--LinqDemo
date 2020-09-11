@@ -609,7 +609,7 @@ namespace ColLinq
 
             #endregion MoreLinq
 
-            Console.WriteLine("Hello World！");
+            Console.WriteLine("Hello World!");
         }
 
         // 分页查询方法
